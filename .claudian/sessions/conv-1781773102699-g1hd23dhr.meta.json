@@ -4,6 +4,20 @@
   "title": "我刚刚安装了git 插件，帮我把工作目录初始化为git仓库",
   "titleGenerationStatus": "failed",
   "createdAt": 1781773102699,
-  "updatedAt": 1781773106065,
-  "sessionId": null
+  "updatedAt": 1781774837595,
+  "lastResponseAt": 1781774837595,
+  "sessionId": "887da0ba-ce32-49e7-ab87-d5942afacd53",
+  "providerState": {
+    "providerSessionId": "887da0ba-ce32-49e7-ab87-d5942afacd53"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 271,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29184,
+    "contextWindow": 200000,
+    "contextTokens": 29455,
+    "percentage": 15,
+    "contextWindowIsAuthoritative": true
+  }
 }

@@ -5,6 +5,9 @@
 .DS_Store
 Thumbs.db
 
+# Claude session data
+.claudian/
+
 # OS files
 desktop.ini
 *.lnk
