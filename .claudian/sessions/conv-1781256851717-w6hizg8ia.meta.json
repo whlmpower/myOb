@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781256851717-w6hizg8ia",
+  "providerId": "claude",
+  "title": "搜索抖音官方或权威来源，确认：",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1781256851752,
+  "updatedAt": 1781773059011,
+  "lastResponseAt": 1781771961342,
+  "sessionId": "6b2d1471-9520-4540-8d8b-210988f8e10f",
+  "providerState": {
+    "providerSessionId": "6b2d1471-9520-4540-8d8b-210988f8e10f"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 799,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 91584,
+    "contextWindow": 200000,
+    "contextTokens": 92383,
+    "percentage": 46,
+    "contextWindowIsAuthoritative": true
+  }
+}

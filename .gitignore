@@ -1,0 +1,10 @@
+# Obsidian vault
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/
+.DS_Store
+Thumbs.db
+
+# OS files
+desktop.ini
+*.lnk
