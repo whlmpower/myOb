@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "haiku",
   "thinkingBudget": "off",
-  "effortLevel": "high",
+  "effortLevel": "max",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -24,10 +24,11 @@
   "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
-      "safeMode": "acceptEdits",
+      "safeMode": "auto",
       "cliPath": "",
       "cliPathsByHost": {
-        "device:b8ded127-7e0e-49b0-a6d8-890529542f88": "C:\\Users\\Administrator\\AppData\\Roaming\\npm\\claude.cmd"
+        "device:b8ded127-7e0e-49b0-a6d8-890529542f88": "C:\\Users\\Administrator\\AppData\\Roaming\\npm\\claude.cmd",
+        "device:5c5fc909-9651-41aa-ab68-3d0d71315bce": "/usr/local/bin/claude"
       },
       "loadUserSettings": true,
       "enableChrome": false,
@@ -49,7 +50,8 @@
       "environmentVariables": "",
       "environmentHash": "",
       "installationMethodsByHost": {
-        "device:b8ded127-7e0e-49b0-a6d8-890529542f88": "native-windows"
+        "device:b8ded127-7e0e-49b0-a6d8-890529542f88": "native-windows",
+        "device:5c5fc909-9651-41aa-ab68-3d0d71315bce": "native-windows"
       },
       "wslDistroOverridesByHost": {}
     },
@@ -83,7 +85,7 @@
     "claude": "haiku"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "max"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
@@ -92,10 +94,10 @@
   },
   "lastCustomModel": "",
   "maxTabs": 3,
-  "tabBarPosition": "input",
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
-  "hiddenProviderCommands": {}
+  "hiddenProviderCommands": {},
+  "tabBarPosition": "input"
 }

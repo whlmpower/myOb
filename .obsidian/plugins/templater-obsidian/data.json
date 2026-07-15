@@ -19,12 +19,12 @@
       "template": "06-Templates/需求撰写文档模板.md"
     },
     {
-      "folder": "07-talk/target/my-channel/02-创作中",
-      "template": "06-Templates/口播文案模板.md"
-    },
-    {
       "folder": "01-Inbox/闪光灵感",
       "template": "06-Templates/网页采集模板.md"
+    },
+    {
+      "folder": "07-talk/target/my-channel/02-创作中",
+      "template": "06-Templates/口播文案模板.md"
     }
   ],
   "enable_file_templates": false,

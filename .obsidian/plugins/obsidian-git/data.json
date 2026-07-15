@@ -23,6 +23,7 @@
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
+  "gitDir": "~/.ssh",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
