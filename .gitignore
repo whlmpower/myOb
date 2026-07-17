@@ -14,3 +14,9 @@ Thumbs.db
 # OS files
 desktop.ini
 *.lnk
+
+data.json
+*.meta.json
+/.claudian/sessions/
+/.claudian/sessions/conv-1781509467105-pydhycb6v.meta.json
+/.obsidian/plugins/realclaudian/data.json
